@@ -1,0 +1,18 @@
+.border-section {
+  border: 2px solid #ff0000;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+body {
+  background-color: #0d0d0d;
+  color: #ffffff;
+  font-family: 'Arial', sans-serif;
+}
+
+.riot-kikir {
+  font-size: 80px;
+  text-align: center;
+  margin: 20px;
+  border: #ff0000 solid 2px;
+}
