@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'azriwandi3/r7topup',
+  base: 'https://azriwandi3.github.io/r7topup/',
   plugins: [react()],
 })
